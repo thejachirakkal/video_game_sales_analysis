@@ -1,0 +1,1 @@
+Welcome to the Video Game Sales Analysis project! This project is dedicated to exploring and analyzing trends in the video game industry by examining sales data. Whether you're a gamer, a developer, or someone interested in the gaming market, this analysis aims to provide valuable insights into the performance and patterns of video game sales.
